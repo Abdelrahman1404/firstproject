@@ -40,4 +40,3 @@ TELFAST		21-Sep
 ENTOCID COMPOUND		22-Nov
 CETAL		22-Nov
 Lacteol fort		22-Oct
-
